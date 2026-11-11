@@ -1,0 +1,4 @@
+Put your background songs (MP3) in this folder,
+then list each one in config.js under "music", e.g.
+
+  { name: "Chill Beat", file: "chill-beat.mp3" },

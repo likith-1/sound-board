@@ -1,0 +1,4 @@
+Put your meme sounds (MP3) in this folder,
+then put each file name in a slot in config.js, e.g.
+
+  { name: "Vine Boom", file: "vine-boom.mp3" },
